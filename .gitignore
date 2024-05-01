@@ -1,0 +1,3 @@
+*.csv
+sstack/
+.ipynb_checkpoints
